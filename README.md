@@ -59,15 +59,19 @@ The project compares both libraries across:
 
 ---
 
-##  Dataset
-The dataset includes:
+## 📂 Dataset
+
+The dataset used in this project is publicly available:
+
+🔗 [Tech Layoffs Dataset]([PUT_YOUR_LINK_HERE](https://www.kaggle.com/datasets/ulrikeherold/tech-layoffs-2020-2024?resource=download))
+
+It includes:
 - Company information  
 - Location and country  
 - Industry  
 - Number and percentage of layoffs  
 - Funding raised  
 - Layoff dates  
-
 ---
 
 
